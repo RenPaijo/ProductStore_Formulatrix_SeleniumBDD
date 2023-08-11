@@ -12,8 +12,8 @@
     Then User already login on product store web
     Examples:
       | userName | password |
-      | ren6     | ren6     |
-      | mafa6    | mafa6    |
+      | ren8     | ren8     |
+      | mafa8    | mafa8    |
 
     Scenario Outline: Sign up with invalid parameter
     Given User already on product store web
